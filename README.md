@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @onnedaay
-- 👀 I’m interested inSoftware development
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning Flutter
 - 📫 reach me at @yasserconnect.
